@@ -1,9 +1,9 @@
 [submodule "deps/googletest"]
 	path = deps/googletest
-	url = https://github.com/avast-tl/googletest
+	url = https://github.com/igiagkiozis/googletest
 [submodule "deps/jsoncpp"]
 	path = deps/jsoncpp
-	url = https://github.com/avast-tl/jsoncpp
+	url = https://github.com/igiagkiozis/jsoncpp
 [submodule "deps/tl-cpputils"]
 	path = deps/tl-cpputils
-	url = https://github.com/avast-tl/tl-cpputils
+	url = https://github.com/igiagkiozis/tl-cpputils
